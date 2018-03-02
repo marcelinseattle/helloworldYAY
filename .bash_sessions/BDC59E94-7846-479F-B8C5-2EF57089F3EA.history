@@ -1,0 +1,5 @@
+git config -l
+git config -l
+git version
+git config --user-name
+clear

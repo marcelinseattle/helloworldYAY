@@ -1,0 +1,56 @@
+git --v
+git --l
+git --d
+git --f
+clear
+git version
+git config
+git config
+git config --global --list
+clear
+git config --global --list
+git config --list 
+git config -l
+clear
+git config -l
+git config user.name
+git config -l
+pwd
+git config -l
+clear
+git --global --list
+git config --global --list
+git config user.name
+cd ~
+pwd
+git config user.name
+git status
+git git config --list
+git config --list
+~/.gitconfig
+cd ..
+pwd
+git config --list
+git status
+git config user.name
+clear
+git config --global user.email
+git config --global marcelinseattle.com
+git config -l
+git config -l
+git config
+git config -l
+git credential-osxkeychain
+cd ~/.ssh
+cd ~/.ssh
+cd ~/.ssh
+git status
+git keychain
+git ---help
+git --help
+git config -l
+cd ..
+pwd
+git config -l
+git config -l
+git credential-osxkeychain
